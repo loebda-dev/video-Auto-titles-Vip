@@ -1,0 +1,6 @@
+{
+  "name": "AI Video File Renamer VIP",
+  "description": "An application to analyze video content using AI and suggest new filenames. Users can select multiple video files, get AI-powered name suggestions, and download them with the new names.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
